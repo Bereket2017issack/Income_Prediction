@@ -9,7 +9,7 @@ The data set was extracted by Barry Becker from the 1994 Census database data an
 All catagorical variables are converted to numerica values using OneHotEncoder for independent variables and LabelEncoder for the dependent variable. I have used Google collab and imported Python libraries such as pandas, scikit-learn, matplotlib, seaborn, numpy for the analyses. 
 
 
-## Dataset Features 
+### Dataset Features 
 
 age: continuous.
 
