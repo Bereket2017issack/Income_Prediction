@@ -25,6 +25,6 @@ for i, j in enumerate(np.unique(y_set)):
   
 plt.title('Logistic Regression (Training set)')
 plt.xlabel("allvalues")
-plt.ylabel("Salary")
+plt.ylabel("Income")
 plt.legend()
 plt.show()
